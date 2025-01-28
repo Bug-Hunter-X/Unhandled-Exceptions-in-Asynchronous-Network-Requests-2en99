@@ -1,0 +1,3 @@
+# Unhandled Exceptions in Asynchronous Network Requests
+
+This repository demonstrates a common error in Dart where exceptions during asynchronous network requests (using `http` package) are not properly handled.  The original code lacks specific exception handling, potentially masking crucial error details.  The improved solution provides robust error handling and informative error messages for better debugging and user experience.
